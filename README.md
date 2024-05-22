@@ -1,5 +1,5 @@
-# GOG_Ajax_Ecommerce
-# E-commerce Gadgets of Galaxy Demo
+# Gadgets-of-Galaxy-Ecommerce-Website
+# E-commerce Gadgets of Galaxy
 
 This is a sample application that demonstrates an E-commerce website using the nodejs. The application loads 
 products from MongoDB database and displays them. The loading page directly takes to home page. Users can register
@@ -16,7 +16,7 @@ Clone the `GOG` repository using git:
 
 ```bash
 git clone https://github.com/Gadgets-Of-Galaxy/GOG_FINAL
-cd GOG_Ajax_Ecommerce-main
+cd Gadgets-of-Galaxy-Ecommerce-Website
 ```
 
 Install dependencies with this command:
